@@ -1,0 +1,6 @@
+pod 'RealmSwift'
+pod 'Argo'
+pod 'Alamofire'
+pod 'SwiftyJSON'
+
+use_frameworks!
